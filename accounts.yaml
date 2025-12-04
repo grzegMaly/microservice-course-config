@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related local APIs"
+  message: "Welcome to Bank accounts related local-GIT APIs"
   contactDetails:
     name: "Mordinia - Dev"
     email: "mordinia@mordinia.com"
