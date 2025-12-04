@@ -5,7 +5,7 @@ cards:
   message: "Welcome to Bank cards related QA-GIT APIs "
   contactDetails:
     name: "Mordinia Cards QA - Developer"
-    email: "mordinia@mordinia.com"
+    email: "{cipher}166c23078115473cc9d5b2ec5d37c6d24094c9c2cb24dcf2e9c263861b4e46d2e0d7d0b0f24df86ea32b3c854286a397"
   onCallSupport:
     - 345345234
     - 456345567
