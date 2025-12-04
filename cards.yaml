@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Bank cards related local APIs "
+  message: "Welcome to Bank cards related local-GIT APIs "
   contactDetails:
     name: "Mordinia Cards - Developer"
     email: "mordinia@mordinia.com"
