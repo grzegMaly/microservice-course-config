@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Bank accounts related PROD APIs"
+  message: "Welcome to Bank accounts related PROD-GIT APIs"
   contactDetails:
     name: "Mordinia - Dev"
     email: "mordinia@mordinia.com"
