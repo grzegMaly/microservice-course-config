@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Bank cards related PROD-GIT APIs "
   contactDetails:
-    name: "Mordinia Cards PROD - Developer"
+    name: "Mordinia Cards PROD - {cipher}6cb36a2289deb3a0715c19406789473e5d6226bc367f6de60917ed91891341b0"
     email: "{cipher}166c23078115473cc9d5b2ec5d37c6d24094c9c2cb24dcf2e9c263861b4e46d2e0d7d0b0f24df86ea32b3c854286a397"
   onCallSupport:
     - 346556345
