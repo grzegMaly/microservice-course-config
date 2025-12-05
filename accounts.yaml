@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related local-GIT APIs"
+  message: "Welcome to Bank accounts related local-GIT-default APIs"
   contactDetails:
     name: "{cipher}3e14d2b3024839138bd87250ddd5ac2d08a09f4e0322a301a89b46be868b47129246595b3534d7b141a14e34e0de4d3d"
     email: "{cipher}166c23078115473cc9d5b2ec5d37c6d24094c9c2cb24dcf2e9c263861b4e46d2e0d7d0b0f24df86ea32b3c854286a397"
